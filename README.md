@@ -1,4 +1,4 @@
-# Blockchain
+# Overview
 
 MICROPAYMENTS are transfer of small sum of money that occurs online. Banks and other financial institutions are experimenting with multiple use-cases on Blockchain and finds it the right solution to build such applications to facilitate micropayments. Blockchain can address and resolve many pain points in the current process. The banking industry today is faced with issues such as rising costs of operations, increasing susceptibility to fraudulent attacks on centralized servers and challenges in ensuring transparency. All this, primarily because most of the banking transactions – from opening customer accounts to making global payments – may require intensive manual processing and documentation, involve costly intermediaries and is time-consuming as these transactions need to be validated by various participants at various point in time causing the delay thereby resulting in almost lack of fraud-proof real time solution.
 
